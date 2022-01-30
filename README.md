@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👨🏿‍💻 I’m currently working on Java and C
 - 📚 I'm learning about Web Developer (JS, HTML and CSS)
 - 🔭 I'd like to learning React, Bootstrap and more Web
-- 🐣 Pronouns: He,Him 
+- 🐣 Pronouns: He, Him 
 
 <!-- <div align="center">
   <a href="https://github.com/rafaballerini">
