@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👨🏿‍💻 I’m currently working on Java Web
+- 👨🏿‍💻 I’m currently working on ERP 
 - 📚 I'm learning about Web Developer (JS, HTML and CSS)
 - 🔭 I'd like to learning React, Bootstrap and more Web
 - 🐣 Pronouns: He, Him 
