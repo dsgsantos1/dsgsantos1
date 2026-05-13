@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👨🏿‍💻 I’m currently working on ERP 
-- 📚 I'm learning about Web Developer (JS, HTML and CSS)
-- 🔭 I'd like to learning React, Bootstrap and more Web
-- 🐣 Pronouns: He, Him 
-
+- 📚 I'm learning about Java
 <br>
 
 <div align="center">
@@ -31,11 +27,6 @@ Here are some ideas to get you started:
   
 <div align = "inline_block">
 <img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
 
